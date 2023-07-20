@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 660,
+          "bottomRow": 930,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -33,6 +33,14 @@
               "name": "Api2",
               "confirmBeforeExecute": false,
               "pluginType": "SAAS",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Page1_Query4",
+              "name": "Query4",
+              "confirmBeforeExecute": false,
+              "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }

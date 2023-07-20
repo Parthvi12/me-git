@@ -1,0 +1,2 @@
+SELECT * FROM App_detailes LIMIT 10
+
